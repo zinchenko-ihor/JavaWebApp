@@ -15,9 +15,7 @@
 	<packaging>jar</packaging>  
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
-		<maven.compiler.target>17</maven.compiler.target>
-		<maven.compiler.source>17</maven.compiler.source>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

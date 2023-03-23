@@ -1,5 +1,5 @@
 #Define your base image 
-FROM eclipse-temurin:17-jdk-focal 
+FROM eclipse-temurin:11-jdk-focal 
 
 #Maintainer of this image
 LABEL maintainer="Zinchenko" 

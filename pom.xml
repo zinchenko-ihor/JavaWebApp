@@ -42,6 +42,10 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>3.10.1</version>
+      				<configuration>
+        				<release>11</release>
+      				</configuration>
 			</plugin>
 		</plugins>
 	</build>
